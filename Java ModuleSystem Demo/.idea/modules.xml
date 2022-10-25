@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java ModuleSystem Demo.iml" filepath="$PROJECT_DIR$/Java ModuleSystem Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.abc.newApp/com.abc.newApp.iml" filepath="$PROJECT_DIR$/com.abc.newApp/com.abc.newApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.first.application/com.first.application.iml" filepath="$PROJECT_DIR$/com.first.application/com.first.application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.main.app/com.main.app.iml" filepath="$PROJECT_DIR$/com.main.app/com.main.app.iml" />
+    </modules>
+  </component>
+</project>

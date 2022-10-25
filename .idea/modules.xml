@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Access Modifier/Access Modifier.iml" filepath="$PROJECT_DIR$/Access Modifier/Access Modifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final Variable/Final Variable.iml" filepath="$PROJECT_DIR$/Final Variable/Final Variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Packages Demo/Packages Demo.iml" filepath="$PROJECT_DIR$/Packages Demo/Packages Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Private Constructor Singlenton/Private Constructor Singlenton.iml" filepath="$PROJECT_DIR$/Private Constructor Singlenton/Private Constructor Singlenton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static Imports Demo/Static Imports Demo.iml" filepath="$PROJECT_DIR$/Static Imports Demo/Static Imports Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+    </modules>
+  </component>
+</project>
